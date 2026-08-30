@@ -1,0 +1,19 @@
+
+  VITE v5.4.21  ready in 513 ms
+
+  ➜  Local:   http://127.0.0.1:3000/
+13:08:56 [vite] hmr update /src/components/SelectorMapa.jsx
+13:08:56 [vite] hmr update /src/components/SelectorMapa.jsx
+13:10:14 [vite] hmr update /src/components/SelectorMapa.jsx
+13:10:28 [vite] hmr update /src/components/SelectorMapa.jsx
+13:10:40 [vite] hmr update /src/components/SelectorMapa.jsx
+19:16:38 [vite] hmr update /src/styles.css
+19:16:38 [vite] hmr update /src/components/SelectorMapa.jsx
+19:16:38 [vite] hmr update /src/pages/Explorar.jsx
+19:16:38 [vite] hmr update /src/pages/Login.jsx
+19:16:38 [vite] hmr update /src/pages/SubirItem.jsx
+19:29:17 [vite] hmr update /src/App.jsx
+19:29:17 [vite] hmr update /src/styles.css
+19:29:17 [vite] hmr update /src/components/NavBar.jsx
+19:29:17 [vite] hmr update /src/pages/Explorar.jsx
+19:29:17 [vite] hmr update /src/pages/Perfil.jsx
